@@ -24,11 +24,11 @@ Total   | 25.7 | 17.2|
 
 Example of an insertion:
 
-*She died there after a long illness.* + *in 1949* = *She died there in 1949 after a long illness.*
+"*She died there after a long illness.*" + "*in 1949*" = "*She died there in 1949 after a long illness.*"
 
 Example of a deletion:
 
-*She dreams about entering the Black Lodge and about a ring.* - *and about a ring.* = *She dreams about entering the Black Lodge.*
+"*She dreams about entering the Black Lodge and about a ring.*" - "*and about a ring.*" = "*She dreams about entering the Black Lodge.*"
 
 For each language we provide two files, one each for insertions and deletions. The files contains the following tab-separated columns:
 
