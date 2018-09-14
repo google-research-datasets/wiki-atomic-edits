@@ -11,7 +11,7 @@ Following are the number of examples by language:
 Language | Insertions | Deletions |
 ---------|------------|-----------|
 German  | [3.3](https://storage.googleapis.com/wiki-atomic-edits/german/insertions.tsv.gz)  | [1.9](https://storage.googleapis.com/wiki-atomic-edits/german/deletions.tsv.gz) |
-English | [13.7](https://storage.googleapis.com/wiki-atomic-edits/english/inserions.tsv.gz) | [9.3](https://storage.googleapis.com/wiki-atomic-edits/english/deletions.tsv.gz) |
+English | [13.7](https://storage.googleapis.com/wiki-atomic-edits/english/insertions.tsv.gz) | [9.3](https://storage.googleapis.com/wiki-atomic-edits/english/deletions.tsv.gz) |
 Spanish | 1.4  | 0.9 |
 French  | 2.0  | 2.0 |
 Italian | 1.0  | 0.6 |
