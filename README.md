@@ -1,4 +1,4 @@
-# WikiAtomicEdits
+# WikiAtomicEdits Dataset
 
 A dataset of atomic wikipedia edits containing insertions and deletions of a contiguous chunk of text in a sentence. This dataset contains ~43 million edits across 8 languages.
 
