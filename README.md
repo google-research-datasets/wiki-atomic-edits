@@ -8,7 +8,7 @@ http://goo.gl/language/wiki-atomic-edits
 
 An atomic edit is defined as an edit *e* applied to a natural language expression *S* as the insertion, deletion, or substitution of a sub-expression *P* such that both the original expression S and the resulting expression *e(S)* are well-formed semantic constituents (MacCartney, 2009). In this corpus, we release such atomic insertions and deletions made to sentences in wikipedia. __**Please click on the numbers below to download the data**__.
 
-Following are the number of examples by language:
+Following are the number of examples(in million) by language:
 
 Language | Insertions | Deletions |
 ---------|------------|-----------|
